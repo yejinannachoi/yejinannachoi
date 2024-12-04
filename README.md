@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+I am a senior at Emory University with a passion for solving business problems and elevating user experiences through coding and data science.
+
+- Pursuing a joint degree in Business and Data Science.
+- Learning Deep Learning, Java, and building my portfolio website.
+- Actively applying for master’s programs in data science.
+
 
 <!--
 **yejinannachoi/yejinannachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
