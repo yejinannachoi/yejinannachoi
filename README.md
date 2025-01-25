@@ -2,9 +2,9 @@
 
 I am a senior at Emory University with a passion for solving business problems and elevating user experiences through coding and data science.
 
-- Pursuing a joint degree in Business and Data Science.
-- Currently learning Java and building my portfolio website.
-- Actively applying for master’s programs in data science.
+- Pursuing a joint degree in Business and Quantitative Sciences.
+- Currently learning Java and building my GitHub portfolio website.
+- Actively applying for master’s programs in Data Science.
 
 
 <!--
