@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a senior at Emory University with a passion for solving business problems and elevating user experiences through coding and data science.
+I'm a senior at Emory University with a passion for solving business problems and elevating user experiences through data science.
 
 - Pursuing a joint degree in Business and Quantitative Sciences.
 - Currently learning Java and building my GitHub portfolio website.
-- Actively applying for master’s programs in Data Science.
+- Seeking internship opportunities for Summer 2025.
 
 
 <!--
