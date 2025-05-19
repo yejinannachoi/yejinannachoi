@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm a senior at Emory University with a passion for solving business problems and elevating user experiences through data science.
+I recently graduated from Emory University with a degree in Business Administration and Quantitative Sciences. This fall, I will begin my Master’s in Data Science at New York University.
 
-- Pursuing a joint degree in Business and Quantitative Sciences.
-- Currently learning Java and building my GitHub portfolio website.
-- Seeking internship opportunities for Summer 2025.
+My goal is to use data science skills and my business acumen to solve business problems, create value, and elevate user experiences. I’m currently seeking internship opportunities for Summer 2025 in data science, analytics, or related fields.
 
 
 <!--
