@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I recently graduated from Emory University with a degree in Business Administration and Quantitative Sciences. This fall, I will begin my Master’s in Data Science at New York University.
+I recently graduated from Emory University with a degree in Business Administration and Quantitative Sciences. This fall, I will begin my Master’s in Data Science at the NYU Center for Data Science (CDS).
 
 My goal is to use data science skills and my business acumen to solve business problems, create value, and elevate user experiences. I’m currently seeking internship opportunities for Summer 2025 in data science, analytics, or related fields.
 
